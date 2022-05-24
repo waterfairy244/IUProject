@@ -1,0 +1,17 @@
+body {
+      font: 12px sans-serif;
+    }
+ .legend text{
+         fill:  black;
+         font-family:"Arial Black", Gadget, sans-serif;
+     }
+.axis path,
+    .axis line {
+      fill: none;
+      stroke: #000;
+      shape-rendering: crispEdges;
+    }
+ .line:hover {
+      : black;
+    stroke-width: 2px;
+    }

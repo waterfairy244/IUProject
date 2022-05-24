@@ -1,0 +1,31 @@
+#name {
+  color: #F09CBF;
+}
+.text {
+ font-weight: bold; 
+}
+#lab-title {
+  font-style: italic;
+}
+
+body {
+ background: linear-gradient(to bottom, #ffccff 0%, #ccffff 100%);
+}
+	button {
+  		background-color: #ffffff;
+		border: 1px solid #dcdcdc;
+		border-radius: 15px;
+		color: #333333;
+		padding: 5px 8px;
+		cursor: pointer;
+		display: inline-block;
+		margin-right: 10px;
+		text-align: center;
+		text-decoration: none;
+		font-size: 12px;
+		line-height: 20px;
+		font-family: sans-serif;
+	}
+	button:focus {
+	    outline: 0;
+	}
